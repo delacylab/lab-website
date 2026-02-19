@@ -1,23 +1,39 @@
-- id: doi:10.1371/journal.pcbi.1007128
+# - id: doi:10.1371/journal.pcbi.1007128
+  # type: paper
+  # description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  # date: 2020-12-4
+  # image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  # buttons:
+    # - type: manubot
+      # link: https://greenelab.github.io/meta-review/
+    # - type: source
+      # text: Manuscript Source
+      # link: https://github.com/greenelab/meta-review
+    # - type: website
+      # link: http://manubot.org/
+  # tags:
+    # - open science
+    # - collaboration
+  # repo: greenelab/meta-review
+# 
+# - id: doi:10.1016/j.csbj.2020.05.017
+  # image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+# 
+# - id: doi:10.7554/eLife.32822
+  # image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+
+- id: doi:10.1016/j.patter.2025.101240
+  image: https://www.cell.com/cms/10.1016/j.patter.2025.101240/asset/311e9ed2-3189-4c76-a9eb-c30476eb1876/main.assets/gr1_lrg.jpg
+# - id: DOI:10.1016/j.biopsych.2025.02.266
+
+- id: DOI:10.1016/j.biopsych.2025.02.266
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
+  description: Dissecting the exposome linked to mental health outcomes can help identify potentially modifiable targets to improve mental well-being. However, the multiplicity of exposures and the complexity of mental health phenotypes pose a challenge that requires data-driven approaches.
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/d4d6/11968124/4268408163dd/S0033291724003015_fig3.jpg
+  # buttons:
+  #   - type: manubot
+  #     link: test
   tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+    - Behavioral Health
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  
