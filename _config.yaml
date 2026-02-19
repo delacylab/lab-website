@@ -1,19 +1,21 @@
 # site properties and page defaults
-title: Lab Website Template
-subtitle: by the Greene Lab
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
-header: images/background.jpg
-footer: images/background.jpg
+title: de Lacy Lab
+subtitle: Artificial Intelligence for Mental Health
+description: The de Lacy Laboratory at the University of Utah uses computational science to further mental health and substance use research. We are particularly interested in analyzing data from free-living humans and naturalistic environments such as wearable sensors, games and electronic health records.
+header: images/background.png
+footer: images/background.png
+header-dark: True
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@your-lab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: your-lab
-  twitter: YourLabHandle
-  youtube: YourLabChannel
+  email: nina@ninadelacy.org
+  orcid: 0000-0002-4574-3604
+  # google-scholar: ETJoidYAAAAJ
+  github: delacylab
+  linkedin: nina-de-lacy-8a5874378
+  # twitter: YourLabHandle
+  # youtube: YourLabChannel
 
 ### jekyll settings
 

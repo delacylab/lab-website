@@ -1,8 +1,9 @@
 ---
-name: John Doe
+name: Wayne Lam
 image: images/photo.jpg
-role: phd
-group: alum
+role: architect
+affiliation: University of Utah
+# group: alum
 links:
   github: john-doe
 ---

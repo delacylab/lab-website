@@ -1,21 +1,23 @@
 ---
 ---
 
-# Lab Website Template
+# de Lacy Lab
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
-Spend less time worrying about managing a website and citations, and more time running your lab.
+<!-- [Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
+Spend less time worrying about managing a website and citations, and more time running your lab. -->
 
-{%
+The de Lacy Laboratory at the University of Utah uses computational science to further mental health and substance use research. We are particularly interested in analyzing data from free-living humans and naturalistic environments such as wearable sensors, games and electronic health records.
+
+<!-- {%
   include button.html
   type="docs"
   link="https://greene-lab.gitbook.io/lab-website-template-docs"
-%}
+%} -->
 {%
   include button.html
   type="github"
   text="On GitHub"
-  link="greenelab/lab-website-template"
+  link="delacylab"
 %}
 
 {% include section.html %}
