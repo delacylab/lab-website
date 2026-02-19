@@ -1,9 +1,11 @@
 ---
-name: Wayne Lam
+name: Wai-yin Lam, PhD
 image: images/photo.jpg
 role: architect
 affiliation: University of Utah
 # group: alum
+aliases:
+  Wayne Lam
 links:
   github: john-doe
 ---
