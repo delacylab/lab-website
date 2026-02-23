@@ -24,8 +24,9 @@
   date: '2023-08-22'
   link: https://doi.org/hbpt7d
   orcid: 0000-0002-4574-3604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.medrxiv.org/content/medrxiv/early/2023/08/22/2023.08.19.23294322/F3.large.jpg?width=800&height=600&carousel=1
 - id: doi:10.1101/2023.08.21.23294377
   title: Predicting the onset of internalizing disorders in early adolescence using
     deep learning optimized with AI
@@ -36,8 +37,9 @@
   date: '2023-08-22'
   link: https://doi.org/hbpt7f
   orcid: 0000-0002-4574-3604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.medrxiv.org/content/medrxiv/early/2023/08/22/2023.08.21.23294377/F3.large.jpg?width=800&height=600&carousel=1
 - id: doi:10.1080/17588928.2020.1793752
   title: Sex-related differences in brain dynamism at rest as neural correlates of
     positive and negative valence system constructs
@@ -49,8 +51,8 @@
   date: '2020-07-26'
   link: https://doi.org/ghf8d2
   orcid: 0000-0002-4574-3604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1080/17588928.2020.1853089
   title: Sex/gender differences in the neural substrate of long-term memory
   authors:
@@ -71,8 +73,9 @@
   date: '2019-01-01'
   link: https://doi.org/gmd83n
   orcid: 0000-0002-4574-3604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://mitp.silverchair-cdn.com/mitp/content_public/journal/netn/3/1/10.1162_netn_a_00063/3/00063f01c.png?Expires=1774840272&Signature=my3H9ADbJQHnVq36dVHaqIWsDYHjmmF7-00~bn8NQz3dkApyizp-d29W16BD3-sBjcYdYhGZDBvjFbuURtv1soeoIzOHd0t1ZPWIYpUC9-YlRBn5dkqvsoCcQU-RMd5GmaiPK5cuMOpoHT~g-P6pbmEHBXVOsk13k1RCxVKVT3f9FZERfleuAqj3iy7sOfO5whOuc4k8-m7eSpZWiiK9KsbkYamcsuL2~pOhQFyEvABv0kIM6zt46fa9pHLwif95V8Db7HA5gVde3Twt3k9KpScSsPP9rXiHhzzCCnQasUBj~HU6WdOO9sxIgEVkei4sKNBclWVE-OwW36klGwsFMA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - id: DOI:10.1016/j.biopsych.2025.02.266
   title: 29. Mapping the Dynamic Neural Exposome With AI to Explain the Emergence
     of Mental Illnesses and Identify Neurosensitive Periods for Treatment
@@ -92,5 +95,239 @@
   image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/d4d6/11968124/4268408163dd/S0033291724003015_fig3.jpg
   tags:
   - Behavioral Health
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fpsyt.2025.1487894
+  title: Predicting the onset of internalizing disorders in early adolescence using
+    deep learning optimized with AI
+  authors:
+  - Nina de Lacy
+  - Michael Ramshaw
+  - Wai Yin Lam
+  publisher: Frontiers in Psychiatry
+  date: '2025-10-08'
+  link: https://doi.org/hbkb4g
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41398-023-02599-9
+  title: Predicting individual cases of major adolescent psychiatric conditions with
+    artificial intelligence
+  authors:
+  - Nina de Lacy
+  - Michael J. Ramshaw
+  - Elizabeth McCauley
+  - Kathleen F. Kerr
+  - Joan Kaufman
+  - J. Nathan Kutz
+  publisher: Translational Psychiatry
+  date: '2023-10-10'
+  link: https://doi.org/gs7vf2
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fpsyt.2023.1280326
+  title: Selectively predicting the onset of ADHD, oppositional defiant disorder,
+    and conduct disorder in early adolescence with high accuracy
+  authors:
+  - Nina de Lacy
+  - Michael J. Ramshaw
+  publisher: Frontiers in Psychiatry
+  date: '2023-12-08'
+  link: https://doi.org/g9vpcr
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2023.10.23.23297438
+  title: Predicting new onset thought disorder in early adolescence with optimized
+    deep learning implicates environmental-putamen interactions
+  authors:
+  - Nina de Lacy
+  - Michael J. Ramshaw
+  publisher: openRxiv
+  date: '2023-10-24'
+  link: https://doi.org/hbp94c
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/frai.2022.832530
+  title: 'Integrated Evolutionary Learning: An Artificial Intelligence Approach to
+    Joint Learning of Features and Hyperparameters for Optimized, Explainable Machine
+    Learning'
+  authors:
+  - Nina de Lacy
+  - Michael J. Ramshaw
+  - J. Nathan Kutz
+  publisher: Frontiers in Artificial Intelligence
+  date: '2022-04-05'
+  link: https://doi.org/hbp94d
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.neuroimage.2019.116116
+  title: Sex-related differences in intrinsic brain dynamism and their neurocognitive
+    correlates
+  authors:
+  - Nina de Lacy
+  - Elizabeth McCauley
+  - J. Nathan Kutz
+  - Vince D. Calhoun
+  publisher: NeuroImage
+  date: '2019-11-01'
+  link: https://doi.org/hbp94f
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fnins.2019.00332
+  title: Multilevel Mapping of Sexual Dimorphism in Intrinsic Functional Brain Networks
+  authors:
+  - Nina de Lacy
+  - Elizabeth McCauley
+  - J. Nathan Kutz
+  - Vince D. Calhoun
+  publisher: Frontiers in Neuroscience
+  date: '2019-04-05'
+  link: https://doi.org/hbp94g
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1089/neu.2018.5629
+  title: Longitudinal Clinical and Neuroimaging Evaluation of Symptomatic Concussion
+    in 10- to 14-Year-Old Youth Athletes
+  authors:
+  - Christine L. Mac Donald
+  - Jason Barber
+  - Jason Wright
+  - David Coppel
+  - Nina De Lacy
+  - Steve Ottinger
+  - Suzanne Peck
+  - Chris Panks
+  - Samantha Sun
+  - Kody Zalewski
+  - Nancy Temkin
+  publisher: Journal of Neurotrauma
+  date: '2019-01-15'
+  link: https://doi.org/gh2jwq
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/hbm.24187
+  title: Novel <i>in silico</i> multivariate mapping of intrinsic and anticorrelated
+    connectivity to neurocognitive functional maps supports the maturational hypothesis
+    of ADHD
+  authors:
+  - Nina de Lacy
+  - Ian Kodish
+  - Srinivas Rachakonda
+  - Vince D. Calhoun
+  publisher: Human Brain Mapping
+  date: '2018-04-22'
+  link: https://doi.org/gdww5b
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.neuroimage.2018.06.003
+  title: Transient increased thalamic-sensory connectivity and decreased whole-brain
+    dynamism in autism
+  authors:
+  - Zening Fu
+  - Yiheng Tu
+  - Xin Di
+  - Yuhui Du
+  - Jing Sui
+  - Bharat B. Biswal
+  - Zhiguo Zhang
+  - N. de Lacy
+  - V.D. Calhoun
+  publisher: NeuroImage
+  date: '2019-04-01'
+  link: https://doi.org/gf4zbq
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1097/DBP.0000000000000613
+  title: Intellectual Disability and Psychotropic Medications
+  authors:
+  - Lisa Herzig
+  - Nina de Lacy
+  - George Capone
+  - Jenny Radesky
+  publisher: Journal of Developmental &amp; Behavioral Pediatrics
+  date: '2018-09-01'
+  link: https://doi.org/ggrwsc
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1097/HTR.0000000000000381
+  title: Quantitative Volumetric Imaging and Clinical Outcome Characterization of
+    Symptomatic Concussion in 10- to 14-Year-Old Adolescent Athletes
+  authors:
+  - Christine L. Mac Donald
+  - Jason Barber
+  - Jason Wright
+  - David Coppel
+  - Nina De Lacy
+  - Steve Ottinger
+  - Suzanne Peck
+  - Chris Panks
+  - Kody Zalewski
+  - Samantha Sun
+  - Nancy Temkin
+  publisher: Journal of Head Trauma Rehabilitation
+  date: '2018-11-01'
+  link: https://doi.org/hbp94h
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.nicl.2017.05.024
+  title: Disruption to control network function correlates with altered dynamic connectivity
+    in the wider autism spectrum
+  authors:
+  - N. de Lacy
+  - D. Doherty
+  - B.H. King
+  - S. Rachakonda
+  - V.D. Calhoun
+  publisher: 'NeuroImage: Clinical'
+  date: '2017-01-01'
+  link: https://doi.org/gbjr59
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1136/jmedgenet-2015-103087
+  title: 'Joubert syndrome: a model for untangling recessive disorders with extreme
+    genetic heterogeneity'
+  authors:
+  - R Bachmann-Gagescu
+  - J C Dempsey
+  - I G Phelps
+  - B J O'Roak
+  - D M Knutzen
+  - T C Rue
+  - G E Ishak
+  - C R Isabella
+  - N Gorden
+  - J Adkins
+  - E A Boyle
+  - N de Lacy
+  - D O'Day
+  - A Alswaid
+  - Radha Ramadevi A
+  - L Lingappa
+  - "C Louren\xE7o"
+  - L Martorell
+  - "\xC0 Garcia-Cazorla"
+  - "H Ozy\xFCrek"
+  - "G Halilo\u011Flu"
+  - B Tuysuz
+  - "M Top\xE7u"
+  - P Chance
+  - M A Parisi
+  - I A Glass
+  - J Shendure
+  - D Doherty
+  publisher: Journal of Medical Genetics
+  date: '2015-06-19'
+  link: https://doi.org/f7xgkc
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.chc.2013.07.001
+  title: Psychiatric Assessment of Severe Presentations in Autism Spectrum Disorders
+    and Intellectual Disability
+  authors:
+  - Bryan H. King
+  - Nina de Lacy
+  - Matthew Siegel
+  publisher: Child and Adolescent Psychiatric Clinics of North America
+  date: '2014-01-01'
+  link: https://doi.org/f3h776
   plugin: sources.py
   file: sources.yaml

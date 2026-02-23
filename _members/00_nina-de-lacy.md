@@ -1,6 +1,6 @@
 ---
 name: Nina de Lacy, MBA, MD
-image: images/photo.jpg
+image: images/members/delacy.jpg
 role: principal-investigator
 affiliation: University of Utah
 # aliases:
@@ -8,6 +8,9 @@ affiliation: University of Utah
 #   - J Smith
 links:
   home-page: https://ninadelacy.org/
+  email: nina@ninadelacy.org
+  github: delacylab
+  linkedin: nina-de-lacy-8a5874378
   orcid: 0000-0002-4574-3604
 ---
 

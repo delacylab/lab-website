@@ -36,4 +36,33 @@
   tags:
     - Behavioral Health
 
-  
+- id: doi:10.1101/2023.08.21.23294377
+  image: https://www.medrxiv.org/content/medrxiv/early/2023/08/22/2023.08.21.23294377/F3.large.jpg?width=800&height=600&carousel=1
+
+- id: doi:10.1101/2023.08.19.23294322
+  image: https://www.medrxiv.org/content/medrxiv/early/2023/08/22/2023.08.19.23294322/F3.large.jpg?width=800&height=600&carousel=1
+
+- id: doi:10.1162/netn_a_00063
+  image: https://mitp.silverchair-cdn.com/mitp/content_public/journal/netn/3/1/10.1162_netn_a_00063/3/00063f01c.png?Expires=1774840272&Signature=my3H9ADbJQHnVq36dVHaqIWsDYHjmmF7-00~bn8NQz3dkApyizp-d29W16BD3-sBjcYdYhGZDBvjFbuURtv1soeoIzOHd0t1ZPWIYpUC9-YlRBn5dkqvsoCcQU-RMd5GmaiPK5cuMOpoHT~g-P6pbmEHBXVOsk13k1RCxVKVT3f9FZERfleuAqj3iy7sOfO5whOuc4k8-m7eSpZWiiK9KsbkYamcsuL2~pOhQFyEvABv0kIM6zt46fa9pHLwif95V8Db7HA5gVde3Twt3k9KpScSsPP9rXiHhzzCCnQasUBj~HU6WdOO9sxIgEVkei4sKNBclWVE-OwW36klGwsFMA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+
+# - id: doi:10.1016/j.chc.2013.07.001 
+
+- id: doi:10.3389/fpsyt.2025.1487894
+# - id: doi:10.1016/j.biopsych.2025.02.266
+- id: doi:10.1016/j.patter.2025.101240
+- id: doi:10.1038/s41398-023-02599-9
+- id: doi:10.3389/fpsyt.2023.1280326
+- id: doi:10.1101/2023.10.23.23297438
+- id: doi:10.3389/frai.2022.832530
+- id: doi:10.1080/17588928.2020.1793752
+- id: doi:10.1016/j.neuroimage.2019.116116
+- id: doi:10.3389/fnins.2019.00332
+- id: doi:10.1089/neu.2018.5629
+- id: doi:10.1162/netn_a_00063
+- id: doi:10.1002/hbm.24187
+- id: doi:10.1016/j.neuroimage.2018.06.003
+- id: doi:10.1097/DBP.0000000000000613
+- id: doi:10.1097/HTR.0000000000000381
+- id: doi:10.1016/j.nicl.2017.05.024
+- id: doi:10.1136/jmedgenet-2015-103087
+- id: doi:10.1016/j.chc.2013.07.001
