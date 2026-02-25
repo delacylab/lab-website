@@ -5,11 +5,13 @@ nav:
   tooltip: About our team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}de Lacy Team
+# {% include icon.html icon="fa-solid fa-users" %}<span class="team-name">de Lacy Team</span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+The de Lacy Lab has a talented, multidisciplinary team working at the forefront of responsible AI and dynamic model matching for mental health research.
+
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. -->
 
 {% include section.html %}
 

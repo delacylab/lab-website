@@ -92,7 +92,6 @@
     potentially modifiable targets to improve mental well-being. However, the multiplicity
     of exposures and the complexity of mental health phenotypes pose a challenge that
     requires data-driven approaches.
-  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/d4d6/11968124/4268408163dd/S0033291724003015_fig3.jpg
   tags:
   - Behavioral Health
   plugin: sources.py

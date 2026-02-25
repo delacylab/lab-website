@@ -27,19 +27,19 @@
 
 :root {
   // font families
-  --title: "Inter", sans-serif;
-  --heading: "Inter", sans-serif;
-  --body: "Inter", sans-serif;
+  --title: "Inter", cursive;
+  --heading: "Inter", cursive;
+  --body: "Inter", cursive;
   --code: "Roboto Mono", monospace;
 
   // font sizes
-  --large: 1.2rem;
-  --xl: 1.4rem;
-  --xxl: 1.6rem;
+  --large: 2.0rem;
+  --xl: 2.4rem;
+  --xxl: 2.6rem;
 
   // font weights
-  --thin: 200;
-  --regular: 400;
+  --thin: 300;
+  --regular: 200;
   --semi-bold: 500;
   --bold: 600;
 
@@ -51,4 +51,13 @@
   --rounded: 3px;
   --shadow: 0 0 10px 0 var(--overlay);
   --transition: 0.2s ease;
+}
+
+body {
+  font-size: 1.2rem; /* Or whatever size you prefer */
+}
+
+// Stop headers from auto-capitalizing
+h1, h2, h3, h4, h5, h6 {
+  text-transform: none !important;
 }

@@ -7,7 +7,7 @@ affiliation: University of Utah
 aliases: 
   - Ike Griss Salas
 links:
-  home-page: https://malachitewind.com/
+  personal-page: https://malachitewind.com/
   email: ike.griss.salas@utah.edu
   github: https://github.com/malachitewind
   linkedin: ike-griss-salas-46a32016a

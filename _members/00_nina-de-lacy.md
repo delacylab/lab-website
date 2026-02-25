@@ -7,7 +7,7 @@ affiliation: University of Utah
 #   - J. Smith
 #   - J Smith
 links:
-  home-page: https://ninadelacy.org/
+  personal-page: https://ninadelacy.org/
   email: nina@ninadelacy.org
   github: delacylab
   linkedin: nina-de-lacy-8a5874378
