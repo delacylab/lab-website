@@ -86,8 +86,8 @@ search:
 # social media
 research-gate:
   icon: fa-brands fa-researchgate
-  text: Researcher Gate
-  tooltip: Research Gate
+  text: ResearcherGate
+  tooltip: ResearchGate
   link: https://www.researchgate.net/profile/$VALUE
 
 
