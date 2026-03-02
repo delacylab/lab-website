@@ -1,5 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.02.23.26346921
+  title: Precision stratification of risk for suicidal behavior in people with bipolar
+    depression
+  authors:
+  - Nina de Lacy
+  - Wai Yin Lam
+  - Mihai Virtosu
+  - Vikrant Deshmukh
+  - Fernando Wilson
+  - Bernice Pescosolido
+  - Ken Smith
+  publisher: openRxiv
+  date: '2026-02-25'
+  link: https://doi.org/hbq4v9
+  orcid: 0000-0002-4574-3604
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.patter.2025.101240
   title: 'RiskPath: Explainable deep learning for multistep biomedical prediction
     in longitudinal data'
@@ -87,11 +104,6 @@
   publisher: Biological Psychiatry
   date: '2025-05-01'
   link: https://doi.org/hbpt69
-  type: paper
-  description: Dissecting the exposome linked to mental health outcomes can help identify
-    potentially modifiable targets to improve mental well-being. However, the multiplicity
-    of exposures and the complexity of mental health phenotypes pose a challenge that
-    requires data-driven approaches.
   tags:
   - Behavioral Health
   plugin: sources.py
