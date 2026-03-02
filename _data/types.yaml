@@ -84,6 +84,12 @@ search:
   tooltip: Search
 
 # social media
+research-gate:
+  icon: fa-brands fa-researchgate
+  text: Researcher Gate
+  tooltip: Research Gate
+  link: https://www.researchgate.net/profile/$VALUE
+
 
 orcid:
   icon: fa-brands fa-orcid
