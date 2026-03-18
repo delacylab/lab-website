@@ -4,7 +4,7 @@ subtitle: Artificial Intelligence for Mental Health
 description: The de Lacy Laboratory at the University of Utah uses computational science to further mental health and substance use research. We are particularly interested in analyzing data from free-living humans and naturalistic environments such as wearable sensors, games and electronic health records.
 header: images/background.png
 footer: images/background.png
-header-dark: True
+header-dark: false
 proofer: false
 
 # site social media and other links

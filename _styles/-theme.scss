@@ -27,9 +27,11 @@
 
 :root {
   // font families
-  --title: "Inter", cursive;
-  --heading: "Inter", cursive;
-  --body: "Inter", cursive;
+  // Inter, Libre Franklin, Fira Sans, Google Sans, Montserrat
+  --font-stack: "Montserrat", cursive;
+  --title: var(--font-stack);
+  --heading: var(--font-stack);
+  --body: var(--font-stack);
   --code: "Roboto Mono", monospace;
 
   // font sizes

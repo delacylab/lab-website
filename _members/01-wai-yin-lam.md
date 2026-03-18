@@ -1,5 +1,5 @@
 ---
-name: Wai-yin Lam (Preffered name Wayne Lam)
+name: Wai-yin Lam (Preferred name Wayne Lam)
 image: images/members/wayne.jpeg
 role: architect
 description: Senior Data Architect
