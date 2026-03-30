@@ -12,8 +12,8 @@ We are not currently accepting new positions but for information regarding the l
 {%
   include button.html
   type="email"
-  text="nina@ninadelacy.org"
-  link="nina@ninadelacy.org"
+  text="inquiry@delacylab.org"
+  link="inquiry@delacylab.org"
 %}
 <!-- {%
   include button.html
