@@ -15,8 +15,9 @@
   date: '2026-02-25'
   link: https://doi.org/hbq4v9
   orcid: 0000-0002-4574-3604
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.researchgate.net/publication/401240647/figure/fig1/AS:11431281967672868@1772094152267/Decision-curve-analysis-for-point-prediction-models-Standardized-net-benefit-sNB-is.png
 - id: doi:10.1016/j.patter.2025.101240
   title: 'RiskPath: Explainable deep learning for multistep biomedical prediction
     in longitudinal data'
@@ -92,7 +93,7 @@
   orcid: 0000-0002-4574-3604
   plugin: sources.py
   file: sources.yaml
-  image: https://mitp.silverchair-cdn.com/mitp/content_public/journal/netn/3/1/10.1162_netn_a_00063/3/00063f01c.png?Expires=1774840272&Signature=my3H9ADbJQHnVq36dVHaqIWsDYHjmmF7-00~bn8NQz3dkApyizp-d29W16BD3-sBjcYdYhGZDBvjFbuURtv1soeoIzOHd0t1ZPWIYpUC9-YlRBn5dkqvsoCcQU-RMd5GmaiPK5cuMOpoHT~g-P6pbmEHBXVOsk13k1RCxVKVT3f9FZERfleuAqj3iy7sOfO5whOuc4k8-m7eSpZWiiK9KsbkYamcsuL2~pOhQFyEvABv0kIM6zt46fa9pHLwif95V8Db7HA5gVde3Twt3k9KpScSsPP9rXiHhzzCCnQasUBj~HU6WdOO9sxIgEVkei4sKNBclWVE-OwW36klGwsFMA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: https://mitp.silverchair-cdn.com/mitp/content_public/journal/netn/3/1/10.1162_netn_a_00063/3/m_00063f03c.png?Expires=1777896020&Signature=R4r1Wims8j~yifrjPvVlMkEQ2kuji2cWAa7zB7XypLGsjBoqbSzenZJRKty2ln7hxxpVkOhgSk5O2CC55b9t-IeC78R-DyZNixsqgd4clwMp4wMzGUSIMQR7a8tIfP0QyLXR-VY75qRXDUEBRM-mOwe4sWZzXjpFUkme3LhkZxoYCnrO4rKZ~xlvc5Akz7vVf884eAmRdYo12ABY-~4pzSnyuIdyiLJyZWBgOmCgucNsaR4iA0aQcjUmivsUg4Rq2Iy7gg9E-5yWOk3SmUiQBWOJTyzIAgixXDTCDh3N09ph3Cu-XR6b-MWuHtSqR2lhLmvtOXFizYqj062DL1~ujw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - id: DOI:10.1016/j.biopsych.2025.02.266
   title: 29. Mapping the Dynamic Neural Exposome With AI to Explain the Emergence
     of Mental Illnesses and Identify Neurosensitive Periods for Treatment
@@ -118,6 +119,7 @@
   publisher: Frontiers in Psychiatry
   date: '2025-10-08'
   link: https://doi.org/hbkb4g
+  image: https://images-provider.frontiersin.org/api/ipx/w=716&f=webp/https://www.frontiersin.org/files/Articles/1487894/xml-images/fpsyt-16-1487894-g003.webp
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41398-023-02599-9
@@ -133,6 +135,7 @@
   publisher: Translational Psychiatry
   date: '2023-10-10'
   link: https://doi.org/gs7vf2
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/af65/10564881/511a77d4ea4f/41398_2023_2599_Fig2_HTML.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3389/fpsyt.2023.1280326
@@ -144,6 +147,7 @@
   publisher: Frontiers in Psychiatry
   date: '2023-12-08'
   link: https://doi.org/g9vpcr
+  image: https://images-provider.frontiersin.org/api/ipx/w=716&f=webp/https://www.frontiersin.org/files/Articles/1280326/xml-images/fpsyt-14-1280326-g0002.webp
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2023.10.23.23297438
@@ -155,6 +159,7 @@
   publisher: openRxiv
   date: '2023-10-24'
   link: https://doi.org/hbp94c
+  image: https://www.medrxiv.org/content/medrxiv/early/2023/10/24/2023.10.23.23297438/F3.large.jpg?width=800&height=600&carousel=1
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3389/frai.2022.832530
@@ -168,6 +173,7 @@
   publisher: Frontiers in Artificial Intelligence
   date: '2022-04-05'
   link: https://doi.org/hbp94d
+  image: https://images-provider.frontiersin.org/api/ipx/w=716&f=webp/https://www.frontiersin.org/files/Articles/832530/xml-images/frai-05-832530-g0003.webp
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.neuroimage.2019.116116
@@ -181,6 +187,7 @@
   publisher: NeuroImage
   date: '2019-11-01'
   link: https://doi.org/hbp94f
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1053811919307074-gr1.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3389/fnins.2019.00332
@@ -193,6 +200,7 @@
   publisher: Frontiers in Neuroscience
   date: '2019-04-05'
   link: https://doi.org/hbp94g
+  image: https://images-provider.frontiersin.org/api/ipx/w=716&f=webp/https://www.frontiersin.org/files/Articles/414031/xml-images/fnins-13-00332-g001.webp
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1089/neu.2018.5629
@@ -227,6 +235,7 @@
   publisher: Human Brain Mapping
   date: '2018-04-22'
   link: https://doi.org/gdww5b
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9119/6866542/9ec7fc467429/HBM-39-3449-g004.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.neuroimage.2018.06.003
@@ -245,6 +254,7 @@
   publisher: NeuroImage
   date: '2019-04-01'
   link: https://doi.org/gf4zbq
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S105381191830510X-gr3.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1097/DBP.0000000000000613
@@ -291,6 +301,7 @@
   publisher: 'NeuroImage: Clinical'
   date: '2017-01-01'
   link: https://doi.org/gbjr59
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2213158217301298-gr1.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1136/jmedgenet-2015-103087
@@ -328,6 +339,7 @@
   publisher: Journal of Medical Genetics
   date: '2015-06-19'
   link: https://doi.org/f7xgkc
+  image: https://jmg.bmj.com/content/jmedgenet/52/8/514/F3.medium.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.chc.2013.07.001

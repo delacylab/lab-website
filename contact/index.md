@@ -21,12 +21,13 @@ We are not currently accepting new positions but for information regarding the l
   text="(555) 867-5309"
   link="+1-555-867-5309"
 %} -->
-{%
+<!-- {%
   include button.html
   type="address"
+  text= "Mailing Address"
   tooltip="Our location on Google Maps for easy navigation"
   link="https://maps.app.goo.gl/ePWdbqscuzPfYvAN8"
-%}
+%} -->
 
 {% include section.html %}
 
@@ -54,9 +55,9 @@ We are not currently accepting new positions but for information regarding the l
 
 {% include cols.html col1=col1 col2=col2 %}
 
-{% include section.html dark=true %}
 
-{% capture col1 %}
+
+<!-- {% capture col1 %}
 Lorem ipsum dolor sit amet  
 consectetur adipiscing elit  
 sed do eiusmod tempor
@@ -72,6 +73,6 @@ sed do eiusmod tempor
 Lorem ipsum dolor sit amet  
 consectetur adipiscing elit  
 sed do eiusmod tempor
-{% endcapture %}
+{% endcapture %} -->
 
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
+<!-- {% include cols.html col1=col1 col2=col2 col3=col3 %} -->

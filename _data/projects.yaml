@@ -1,47 +1,47 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: EMBER
+  subtitle: Enabling Mental Health by Emotion Regulation
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+  image: images/projects/ember.png
+  # link: https://github.com/
+  description: A smartphone app that forecasts emotion dysregulation episodes and offers a calming intervention.
+  # repo: greenelab/lab-website-template
+  # tags:
+  #   - resource
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: TALOS
+  subtitle: Testbeds for Adaptive Learning and Observation of Social Systems
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+  image: images/projects/minecraft.png
+  # link: https://github.com/
+  description: Foundational model of human decision-making trained in Minecraft worlds by collecting human gamer telemetry.
+  # repo: greenelab/lab-website-template
+  # tags:
+  #   - resource
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
+- title: DYNAMOW
+  subtitle: Dynamic and AI Multimodal Modeling with Wearables
+  image: images/projects/dynamow.png
+  # link: https://github.com/
+  description: Foundational modeling in large-scale personal sensor data to stratify health risks. 
+  # repo: greenelab/lab-website-template
+  # tags:
+  #   - resource
+  #   - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+- title: STRIDES
+  subtitle: Suicide Triage and Risk Stratification with Integrated Data for EHR Systems
+  image: images/projects/stride.png
+  # link: https://github.com/
+  description: Decision-support tools that automatically stratify individual risk for suicide attempts using large-scale EHR data. 
+  # repo: greenelab/lab-website-template
+  # tags:
+  #   - software
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+- title: ABCD Projects
+  subtitle: Understanding how mental illness develops in youth
+  image: images/projects/abcd.png
+  # link: https://github.com/
+  description: Largest long-term study of human development. Youth cohort followed from 8-20 years with ~80,000 repeated measures including Brain MRI.
+  # repo: greenelab/lab-website-template
+  # tags:
+  #   - software

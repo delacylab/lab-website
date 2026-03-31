@@ -7,15 +7,14 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+A selection of recent publications.
 
 {% include section.html %}
 
 ## Highlighted
 
 {% include citation.html lookup="RiskPath" style="rich" %}
-{% include citation.html lookup="Mapping the Dynamic" style="rich" %}
+<!-- {% include citation.html lookup="Mapping the Dynamic" style="rich" %} -->
 
 {% include section.html %}
 
