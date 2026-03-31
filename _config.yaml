@@ -1,7 +1,7 @@
 # site properties and page defaults
-title: delacylab
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+title: de Lacy Lab
+subtitle: Artificial Intelligence for Mental Health
+description: The de Lacy Laboratory at the University of Utah uses computational tools and science to further mental health and substance use research.
 header: images/background.png
 footer: images/background.png
 header-dark: false
@@ -9,7 +9,7 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@delacylab.com
+  email: inquiry@delacylab.org
   orcid: 0000-0002-4574-3604
   # google-scholar: ETJoidYAAAAJ
   github: delacylab
