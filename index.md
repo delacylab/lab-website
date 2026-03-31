@@ -6,7 +6,7 @@
 <!-- [Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
 Spend less time worrying about managing a website and citations, and more time running your lab. -->
 
-The de Lacy Laboratory at the University of Utah uses computational science to further mental health and substance use research.
+The de Lacy Laboratory at the University of Utah uses computational tools and science to further mental health and substance use research.
 
 <!-- {%
   include button.html
