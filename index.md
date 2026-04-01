@@ -41,7 +41,7 @@ Published research and studies conducted.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/projects/ember.png"
   link="research"
   title="Our Research"
   text=text
@@ -64,7 +64,7 @@ We have various active projects including, EMBER, TALOS, DYNAMOW, STRIDES, and A
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/projects/minecraft.png"
   link="projects"
   title="Our Projects"
   flip=true

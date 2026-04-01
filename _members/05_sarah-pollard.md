@@ -1,7 +1,7 @@
 ---
 name: Sarah Hatch Pollard, MSPH, MEd
 image: images/members/sarah.jpg
-role: program-manager
+# role: program-manager
 description: Program Manager, Palix Resilience Scale Validation Project 
 affiliation: University of Utah
 # links:

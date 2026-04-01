@@ -1,7 +1,7 @@
 ---
 name: Sadia Khan, PhD
 image: images/members/sadia.jpg
-role: postdoc
+# role: postdoc
 description: Postdoc, Responsible AI (RAI) Initiative
 affiliation: University of Utah
 links:

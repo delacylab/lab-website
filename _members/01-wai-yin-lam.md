@@ -1,7 +1,7 @@
 ---
 name: Wai-yin Lam (Preferred name Wayne Lam)
 image: images/members/wayne.jpeg
-role: architect
+# role: architect
 description: Senior Data Architect
 affiliation: University of Utah
 # group: alum

@@ -1,7 +1,8 @@
 ---
 name: Nina de Lacy, MBA, MD
 image: images/members/delacy.jpg
-role: principal-investigator
+# role: principal-investigator
+description: Principal Investigator
 affiliation: University of Utah
 # aliases:
 #   - J. Smith

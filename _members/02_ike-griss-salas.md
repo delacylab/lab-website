@@ -1,7 +1,7 @@
 ---
 name: Ike Griss Salas, PhD
 image: images/members/ike.jpg
-role: postdoc
+# role: postdoc
 description: Postdoc
 affiliation: University of Utah
 aliases: 
