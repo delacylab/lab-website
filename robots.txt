@@ -1,1 +1,1 @@
-Sitemap: https://delacylab.github.io/lab-website/sitemap.xml
+Sitemap: http://www.delacylab.org/sitemap.xml
