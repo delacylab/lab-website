@@ -354,3 +354,14 @@
   link: https://doi.org/f3h776
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1038/s41746-026-02580-y
+  title: "The doctor is not in, but the Chatbot is: Utah\u2019s experience regulating\
+    \ mental health AI"
+  authors:
+  - Nina de Lacy
+  - Zach Boyd
+  publisher: npj Digital Medicine
+  date: '2026-03-27'
+  link: https://doi.org/hbv37g
+  plugin: sources.py
+  file: sources.yaml

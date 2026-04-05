@@ -13,7 +13,9 @@ A selection of recent publications.
 
 ## Highlighted
 
+{% include citation.html lookup="Chatbot" style="rich" %}
 {% include citation.html lookup="RiskPath" style="rich" %}
+
 <!-- {% include citation.html lookup="Mapping the Dynamic" style="rich" %} -->
 
 {% include section.html %}
