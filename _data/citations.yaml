@@ -365,3 +365,16 @@
   link: https://doi.org/hbv37g
   plugin: sources.py
   file: sources.yaml
+- title: 'A century of suicide: new insights from long-term data in the United States'
+  authors:
+  - de Lacy, N.
+  - Lam, W.Y.
+  - Collins, T.
+  - Danks, D.
+  - Wilson, F.A.
+  - Smith, K.R.
+  - Pescosolido, B.
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2026-01-01'
+  plugin: sources.py
+  file: sources.yaml
