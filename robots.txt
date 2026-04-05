@@ -1,1 +1,1 @@
-Sitemap: http://www.delacylab.org/sitemap.xml
+Sitemap: https://www.delacylab.org/sitemap.xml
