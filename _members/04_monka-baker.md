@@ -6,7 +6,7 @@ description: Postdoc
 affiliation: University of Utah
 links:
   email: monika.baker@hsc.utah.edu
-  github: https://github.com/Monika-Baker
+  github: Monika-Baker
   linkedin: monika-baker-779b829b
   orcid: 0000-0002-7430-7588
   research-gate: Monika-Baker

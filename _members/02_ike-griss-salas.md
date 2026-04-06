@@ -9,7 +9,7 @@ aliases:
 links:
   personal-page: https://malachitewind.com/
   email: ike.griss.salas@utah.edu
-  github: https://github.com/malachitewind
+  github: malachitewind
   linkedin: ike-griss-salas-46a32016a
   orcid: 0000-0002-1125-5071
   # twitter: sarahjohnson

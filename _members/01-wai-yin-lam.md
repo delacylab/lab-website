@@ -9,7 +9,7 @@ aliases:
   Wai Yin Lam
 links:
   email: u6054998@utah.edu
-  github: www.linkedin.com/in/wai-yin-lam-93b4a4b0
+  github: waynelam-utah
   linkedin: wai-yin-lam-93b4a4b0
 ---
 
