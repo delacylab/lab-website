@@ -1,8 +1,11 @@
 # start with official ruby docker image as base
-FROM ruby:3.1.2
+FROM ruby:3.1-bookworm
 
 # set working directory within container
 WORKDIR /usr/src/app
+
+# allow pip to install into system python (debian bookworm+)
+ENV PIP_BREAK_SYSTEM_PACKAGES=1
 
 # pull in ruby (jekyll) and python (cite process) package info
 COPY Gemfile Gemfile.lock _cite/requirements.txt ./
