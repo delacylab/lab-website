@@ -11,7 +11,7 @@
 - title: TALOS
   subtitle: Testbeds for Adaptive Learning and Observation of Social Systems
   group: featured
-  image: images/projects/minecraft.png
+  image: images/projects/talos.png
   # link: https://github.com/
   description: Foundational model of human decision-making trained in Minecraft worlds by collecting human gamer telemetry.
   # repo: greenelab/lab-website-template

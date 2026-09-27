@@ -64,7 +64,7 @@ We have various active projects including, EMBER, TALOS, DYNAMOW, STRIDES, and A
 
 {%
   include feature.html
-  image="images/projects/minecraft.png"
+  image="images/projects/talos.png"
   link="projects"
   title="Our Projects"
   flip=true
@@ -89,7 +89,7 @@ Talented team with multi-disciplinary background.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/members/delacy_team.jpg"
   link="team"
   title="Our Team"
   text=text
