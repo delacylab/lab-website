@@ -1,5 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.09.25.26364048
+  title: Predicting suicide attempts in people with autism and co-morbid mood or psychotic
+    disorders
+  authors:
+  - Monika Baker
+  - Wai-Yin Lam
+  - Mihai Virtosu
+  - Nina de Lacy
+  publisher: openRxiv
+  date: '2026-09-28'
+  link: https://doi.org/hcmjz2
+  orcid: 0000-0002-4574-3604
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.64898/2026.07.15.26358168
   title: 'Suicide Attempt Risk in Autism: A National EHR Study of 2.3 Million Individuals'
   authors:
